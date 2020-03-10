@@ -1,0 +1,2596 @@
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/06/2019 13:40:00
+luchtvochtigheid : 90
+temperatuurGC : 7.7
+windsnelheidMS : 5.5
+windsnelheidBF : 3
+windrichtingGR : 104
+windrichting : OZO
+luchtdruk : 995.5
+zichtmeters : 9270
+windstotenMS : 8.2
+regenMMPU : 0.6
+zonintensiteitWM2 : 82
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/q.png
+temperatuur10cm : 7.7
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/07/2019 13:40:00
+luchtvochtigheid : 90
+temperatuurGC : 7.7
+windsnelheidMS : 5.5
+windsnelheidBF : 3
+windrichtingGR : 104
+windrichting : OZO
+luchtdruk : 995.5
+zichtmeters : 9270
+windstotenMS : 8.2
+regenMMPU : 0.6
+zonintensiteitWM2 : 82
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/q.png
+temperatuur10cm : 7.7
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/07/2019 14:00:00
+luchtvochtigheid : 89
+temperatuurGC : 8.0
+windsnelheidMS : 5.6
+windsnelheidBF : 4
+windrichtingGR : 101
+windrichting : O
+luchtdruk : 995.4
+zichtmeters : 12700
+windstotenMS : 8.2
+regenMMPU : -
+zonintensiteitWM2 : 116
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/c.png
+temperatuur10cm : 8.0
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/07/2019 14:20:00
+luchtvochtigheid : 89
+temperatuurGC : 8.0
+windsnelheidMS : 6.8
+windsnelheidBF : 4
+windrichtingGR : 105
+windrichting : OZO
+luchtdruk : 995.3
+zichtmeters : 13300
+windstotenMS : 9.3
+regenMMPU : -
+zonintensiteitWM2 : 50
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/c.png
+temperatuur10cm : 7.9
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/07/2019 14:20:00
+luchtvochtigheid : 89
+temperatuurGC : 8.0
+windsnelheidMS : 6.8
+windsnelheidBF : 4
+windrichtingGR : 105
+windrichting : OZO
+luchtdruk : 995.3
+zichtmeters : 13300
+windstotenMS : 9.3
+regenMMPU : -
+zonintensiteitWM2 : 50
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/c.png
+temperatuur10cm : 7.9
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/10/2019 18:00:00
+luchtvochtigheid : 91
+temperatuurGC : 4.9
+windsnelheidMS : 2.2
+windsnelheidBF : 2
+windrichtingGR : 204
+windrichting : ZZW
+luchtdruk : 1013.4
+zichtmeters : 12400
+windstotenMS : 3.7
+regenMMPU : -
+zonintensiteitWM2 : -
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/bb.png
+temperatuur10cm : 3.8
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/10/2019 18:20:00
+luchtvochtigheid : 91
+temperatuurGC : 5.1
+windsnelheidMS : 2.1
+windsnelheidBF : 2
+windrichtingGR : 212
+windrichting : ZZW
+luchtdruk : 1013.6
+zichtmeters : 11400
+windstotenMS : 3
+regenMMPU : -
+zonintensiteitWM2 : -
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/bb.png
+temperatuur10cm : 3.9
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/11/2019 15:20:00
+luchtvochtigheid : 80
+temperatuurGC : 6.9
+windsnelheidMS : 7.3
+windsnelheidBF : 4
+windrichtingGR : 160
+windrichting : ZZO
+luchtdruk : 997.6
+zichtmeters : 37600
+windstotenMS : 10.9
+regenMMPU : -
+zonintensiteitWM2 : 7
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/c.png
+temperatuur10cm : 6.6
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/11/2019 15:40:00
+luchtvochtigheid : 82
+temperatuurGC : 6.6
+windsnelheidMS : 7.6
+windsnelheidBF : 4
+windrichtingGR : 158
+windrichting : ZZO
+luchtdruk : 997.4
+zichtmeters : 11000
+windstotenMS : 12.6
+regenMMPU : -
+zonintensiteitWM2 : 9
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/c.png
+temperatuur10cm : 6.4
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/11/2019 16:20:00
+luchtvochtigheid : 88
+temperatuurGC : 6.4
+windsnelheidMS : 6.8
+windsnelheidBF : 4
+windrichtingGR : 161
+windrichting : ZZO
+luchtdruk : 996.8
+zichtmeters : 19600
+windstotenMS : 10.3
+regenMMPU : 0.3
+zonintensiteitWM2 : 4
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/q.png
+temperatuur10cm : 6.0
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/11/2019 16:20:00
+luchtvochtigheid : 88
+temperatuurGC : 6.4
+windsnelheidMS : 6.8
+windsnelheidBF : 4
+windrichtingGR : 161
+windrichting : ZZO
+luchtdruk : 996.8
+zichtmeters : 19600
+windstotenMS : 10.3
+regenMMPU : 0.3
+zonintensiteitWM2 : 4
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/q.png
+temperatuur10cm : 6.0
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/11/2019 17:00:00
+luchtvochtigheid : 91
+temperatuurGC : 6.3
+windsnelheidMS : 8.2
+windsnelheidBF : 5
+windrichtingGR : 175
+windrichting : Z
+luchtdruk : 996.5
+zichtmeters : 12800
+windstotenMS : 11.8
+regenMMPU : 0.4
+zonintensiteitWM2 : -
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/qq.png
+temperatuur10cm : 6.0
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/11/2019 17:20:00
+luchtvochtigheid : 91
+temperatuurGC : 6.2
+windsnelheidMS : 7.6
+windsnelheidBF : 4
+windrichtingGR : 168
+windrichting : ZZO
+luchtdruk : 996.3
+zichtmeters : 30400
+windstotenMS : 12.2
+regenMMPU : -
+zonintensiteitWM2 : -
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/qq.png
+temperatuur10cm : 6.0
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/11/2019 17:40:00
+luchtvochtigheid : 87
+temperatuurGC : 6.1
+windsnelheidMS : 8.1
+windsnelheidBF : 5
+windrichtingGR : 175
+windrichting : Z
+luchtdruk : 996.1
+zichtmeters : 49900
+windstotenMS : 12.8
+regenMMPU : -
+zonintensiteitWM2 : -
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/cc.png
+temperatuur10cm : 5.8
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/11/2019 18:00:00
+luchtvochtigheid : 88
+temperatuurGC : 6.1
+windsnelheidMS : 8.2
+windsnelheidBF : 5
+windrichtingGR : 170
+windrichting : Z
+luchtdruk : 996
+zichtmeters : 49900
+windstotenMS : 11.6
+regenMMPU : -
+zonintensiteitWM2 : -
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/cc.png
+temperatuur10cm : 5.8
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/11/2019 18:20:00
+luchtvochtigheid : 89
+temperatuurGC : 6.2
+windsnelheidMS : 7.8
+windsnelheidBF : 4
+windrichtingGR : 177
+windrichting : Z
+luchtdruk : 996
+zichtmeters : 26700
+windstotenMS : 12.7
+regenMMPU : -
+zonintensiteitWM2 : -
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/cc.png
+temperatuur10cm : 5.9
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/11/2019 18:20:00
+luchtvochtigheid : 89
+temperatuurGC : 6.2
+windsnelheidMS : 7.8
+windsnelheidBF : 4
+windrichtingGR : 177
+windrichting : Z
+luchtdruk : 996
+zichtmeters : 26700
+windstotenMS : 12.7
+regenMMPU : -
+zonintensiteitWM2 : -
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/cc.png
+temperatuur10cm : 5.9
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/11/2019 18:40:00
+luchtvochtigheid : 91
+temperatuurGC : 6.2
+windsnelheidMS : 8.8
+windsnelheidBF : 5
+windrichtingGR : 177
+windrichting : Z
+luchtdruk : 995.8
+zichtmeters : 27600
+windstotenMS : 12.8
+regenMMPU : -
+zonintensiteitWM2 : -
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/cc.png
+temperatuur10cm : 5.9
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/11/2019 18:40:00
+luchtvochtigheid : 91
+temperatuurGC : 6.2
+windsnelheidMS : 8.8
+windsnelheidBF : 5
+windrichtingGR : 177
+windrichting : Z
+luchtdruk : 995.8
+zichtmeters : 27600
+windstotenMS : 12.8
+regenMMPU : -
+zonintensiteitWM2 : -
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/cc.png
+temperatuur10cm : 5.9
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/11/2019 19:00:00
+luchtvochtigheid : 93
+temperatuurGC : 6.2
+windsnelheidMS : 7.6
+windsnelheidBF : 4
+windrichtingGR : 182
+windrichting : Z
+luchtdruk : 995.8
+zichtmeters : 19100
+windstotenMS : 11.7
+regenMMPU : 0.1
+zonintensiteitWM2 : -
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/qq.png
+temperatuur10cm : 5.9
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/12/2019 15:30:00
+luchtvochtigheid : 83
+temperatuurGC : 5.4
+windsnelheidMS : 7.2
+windsnelheidBF : 4
+windrichtingGR : 189
+windrichting : Z
+luchtdruk : 996.8
+zichtmeters : 49900
+windstotenMS : 11.2
+regenMMPU : -
+zonintensiteitWM2 : 72
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/b.png
+temperatuur10cm : 5.3
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/12/2019 15:30:00
+luchtvochtigheid : 83
+temperatuurGC : 5.4
+windsnelheidMS : 7.2
+windsnelheidBF : 4
+windrichtingGR : 189
+windrichting : Z
+luchtdruk : 996.8
+zichtmeters : 49900
+windstotenMS : 11.2
+regenMMPU : -
+zonintensiteitWM2 : 72
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/b.png
+temperatuur10cm : 5.3
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/12/2019 15:30:00
+luchtvochtigheid : 83
+temperatuurGC : 5.4
+windsnelheidMS : 7.2
+windsnelheidBF : 4
+windrichtingGR : 189
+windrichting : Z
+luchtdruk : 996.8
+zichtmeters : 49900
+windstotenMS : 11.2
+regenMMPU : -
+zonintensiteitWM2 : 72
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/b.png
+temperatuur10cm : 5.3
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/12/2019 15:30:00
+luchtvochtigheid : 83
+temperatuurGC : 5.4
+windsnelheidMS : 7.2
+windsnelheidBF : 4
+windrichtingGR : 189
+windrichting : Z
+luchtdruk : 996.8
+zichtmeters : 49900
+windstotenMS : 11.2
+regenMMPU : -
+zonintensiteitWM2 : 72
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/b.png
+temperatuur10cm : 5.3
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/12/2019 15:40:00
+luchtvochtigheid : 84
+temperatuurGC : 5.2
+windsnelheidMS : 7.3
+windsnelheidBF : 4
+windrichtingGR : 188
+windrichting : Z
+luchtdruk : 996.9
+zichtmeters : 49700
+windstotenMS : 10.3
+regenMMPU : -
+zonintensiteitWM2 : 38
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/b.png
+temperatuur10cm : 4.9
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/12/2019 15:40:00
+luchtvochtigheid : 84
+temperatuurGC : 5.2
+windsnelheidMS : 7.3
+windsnelheidBF : 4
+windrichtingGR : 188
+windrichting : Z
+luchtdruk : 996.9
+zichtmeters : 49700
+windstotenMS : 10.3
+regenMMPU : -
+zonintensiteitWM2 : 38
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/b.png
+temperatuur10cm : 4.9
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/12/2019 15:40:00
+luchtvochtigheid : 84
+temperatuurGC : 5.2
+windsnelheidMS : 7.3
+windsnelheidBF : 4
+windrichtingGR : 188
+windrichting : Z
+luchtdruk : 996.9
+zichtmeters : 49700
+windstotenMS : 10.3
+regenMMPU : -
+zonintensiteitWM2 : 38
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/b.png
+temperatuur10cm : 4.9
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/12/2019 15:40:00
+luchtvochtigheid : 84
+temperatuurGC : 5.2
+windsnelheidMS : 7.3
+windsnelheidBF : 4
+windrichtingGR : 188
+windrichting : Z
+luchtdruk : 996.9
+zichtmeters : 49700
+windstotenMS : 10.3
+regenMMPU : -
+zonintensiteitWM2 : 38
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/b.png
+temperatuur10cm : 4.9
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/12/2019 15:50:00
+luchtvochtigheid : 84
+temperatuurGC : 5.4
+windsnelheidMS : 6.3
+windsnelheidBF : 4
+windrichtingGR : 190
+windrichting : Z
+luchtdruk : 996.8
+zichtmeters : 49900
+windstotenMS : 10.3
+regenMMPU : -
+zonintensiteitWM2 : 34
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/c.png
+temperatuur10cm : 5.0
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/12/2019 15:50:00
+luchtvochtigheid : 84
+temperatuurGC : 5.4
+windsnelheidMS : 6.3
+windsnelheidBF : 4
+windrichtingGR : 190
+windrichting : Z
+luchtdruk : 996.8
+zichtmeters : 49900
+windstotenMS : 10.3
+regenMMPU : -
+zonintensiteitWM2 : 34
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/c.png
+temperatuur10cm : 5.0
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/12/2019 16:00:00
+luchtvochtigheid : 85
+temperatuurGC : 5.5
+windsnelheidMS : 6
+windsnelheidBF : 4
+windrichtingGR : 188
+windrichting : Z
+luchtdruk : 996.8
+zichtmeters : 49900
+windstotenMS : 9.5
+regenMMPU : -
+zonintensiteitWM2 : 33
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/c.png
+temperatuur10cm : 5.2
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/12/2019 16:00:00
+luchtvochtigheid : 85
+temperatuurGC : 5.5
+windsnelheidMS : 6
+windsnelheidBF : 4
+windrichtingGR : 188
+windrichting : Z
+luchtdruk : 996.8
+zichtmeters : 49900
+windstotenMS : 9.5
+regenMMPU : -
+zonintensiteitWM2 : 33
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/c.png
+temperatuur10cm : 5.2
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/12/2019 16:10:00
+luchtvochtigheid : 85
+temperatuurGC : 5.5
+windsnelheidMS : 5.4
+windsnelheidBF : 3
+windrichtingGR : 188
+windrichting : Z
+luchtdruk : 996.8
+zichtmeters : 49900
+windstotenMS : 9.4
+regenMMPU : -
+zonintensiteitWM2 : 18
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/c.png
+temperatuur10cm : 5.3
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/12/2019 16:10:00
+luchtvochtigheid : 85
+temperatuurGC : 5.5
+windsnelheidMS : 5.4
+windsnelheidBF : 3
+windrichtingGR : 188
+windrichting : Z
+luchtdruk : 996.8
+zichtmeters : 49900
+windstotenMS : 9.4
+regenMMPU : -
+zonintensiteitWM2 : 18
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/c.png
+temperatuur10cm : 5.3
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/12/2019 16:10:00
+luchtvochtigheid : 85
+temperatuurGC : 5.5
+windsnelheidMS : 5.4
+windsnelheidBF : 3
+windrichtingGR : 188
+windrichting : Z
+luchtdruk : 996.8
+zichtmeters : 49900
+windstotenMS : 9.4
+regenMMPU : -
+zonintensiteitWM2 : 18
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/c.png
+temperatuur10cm : 5.3
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/12/2019 16:20:00
+luchtvochtigheid : 84
+temperatuurGC : 5.6
+windsnelheidMS : 5.9
+windsnelheidBF : 4
+windrichtingGR : 187
+windrichting : Z
+luchtdruk : 996.6
+zichtmeters : 49900
+windstotenMS : 9.5
+regenMMPU : -
+zonintensiteitWM2 : 11
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/c.png
+temperatuur10cm : 5.3
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 10:40:00
+luchtvochtigheid : 85
+temperatuurGC : 9.2
+windsnelheidMS : 3.3
+windsnelheidBF : 2
+windrichtingGR : 228
+windrichting : ZW
+luchtdruk : 995.8
+zichtmeters : 36200
+windstotenMS : 5.4
+regenMMPU : -
+zonintensiteitWM2 : 306
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/c.png
+temperatuur10cm : 8.8
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 10:40:00
+luchtvochtigheid : 85
+temperatuurGC : 9.2
+windsnelheidMS : 3.3
+windsnelheidBF : 2
+windrichtingGR : 228
+windrichting : ZW
+luchtdruk : 995.8
+zichtmeters : 36200
+windstotenMS : 5.4
+regenMMPU : -
+zonintensiteitWM2 : 306
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/c.png
+temperatuur10cm : 8.8
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 10:50:00
+luchtvochtigheid : 83
+temperatuurGC : 8.9
+windsnelheidMS : 4.5
+windsnelheidBF : 3
+windrichtingGR : 254
+windrichting : WZW
+luchtdruk : 995.8
+zichtmeters : 32200
+windstotenMS : 6.6
+regenMMPU : -
+zonintensiteitWM2 : 140
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/c.png
+temperatuur10cm : 8.9
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 10:50:00
+luchtvochtigheid : 83
+temperatuurGC : 8.9
+windsnelheidMS : 4.5
+windsnelheidBF : 3
+windrichtingGR : 254
+windrichting : WZW
+luchtdruk : 995.8
+zichtmeters : 32200
+windstotenMS : 6.6
+regenMMPU : -
+zonintensiteitWM2 : 140
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/c.png
+temperatuur10cm : 8.9
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 11:00:00
+luchtvochtigheid : 80
+temperatuurGC : 9.3
+windsnelheidMS : 6
+windsnelheidBF : 4
+windrichtingGR : 253
+windrichting : WZW
+luchtdruk : 995.8
+zichtmeters : 34900
+windstotenMS : 7.5
+regenMMPU : -
+zonintensiteitWM2 : 237
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/b.png
+temperatuur10cm : 8.7
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 11:10:00
+luchtvochtigheid : 80
+temperatuurGC : 9.4
+windsnelheidMS : 6.5
+windsnelheidBF : 4
+windrichtingGR : 254
+windrichting : WZW
+luchtdruk : 995.8
+zichtmeters : 38000
+windstotenMS : 7.9
+regenMMPU : -
+zonintensiteitWM2 : 277
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/a.png
+temperatuur10cm : 9.4
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 11:10:00
+luchtvochtigheid : 80
+temperatuurGC : 9.4
+windsnelheidMS : 6.5
+windsnelheidBF : 4
+windrichtingGR : 254
+windrichting : WZW
+luchtdruk : 995.8
+zichtmeters : 38000
+windstotenMS : 7.9
+regenMMPU : -
+zonintensiteitWM2 : 277
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/a.png
+temperatuur10cm : 9.4
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 11:10:00
+luchtvochtigheid : 80
+temperatuurGC : 9.4
+windsnelheidMS : 6.5
+windsnelheidBF : 4
+windrichtingGR : 254
+windrichting : WZW
+luchtdruk : 995.8
+zichtmeters : 38000
+windstotenMS : 7.9
+regenMMPU : -
+zonintensiteitWM2 : 277
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/a.png
+temperatuur10cm : 9.4
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 11:20:00
+luchtvochtigheid : 79
+temperatuurGC : 9.5
+windsnelheidMS : 6.1
+windsnelheidBF : 4
+windrichtingGR : 256
+windrichting : WZW
+luchtdruk : 995.9
+zichtmeters : 35100
+windstotenMS : 8.4
+regenMMPU : -
+zonintensiteitWM2 : 278
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/a.png
+temperatuur10cm : 9.3
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 11:20:00
+luchtvochtigheid : 79
+temperatuurGC : 9.5
+windsnelheidMS : 6.1
+windsnelheidBF : 4
+windrichtingGR : 256
+windrichting : WZW
+luchtdruk : 995.9
+zichtmeters : 35100
+windstotenMS : 8.4
+regenMMPU : -
+zonintensiteitWM2 : 278
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/a.png
+temperatuur10cm : 9.3
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 11:30:00
+luchtvochtigheid : 80
+temperatuurGC : 9.4
+windsnelheidMS : 5.7
+windsnelheidBF : 4
+windrichtingGR : 261
+windrichting : W
+luchtdruk : 996
+zichtmeters : 42200
+windstotenMS : 8.4
+regenMMPU : -
+zonintensiteitWM2 : 215
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/a.png
+temperatuur10cm : 9.4
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 11:30:00
+luchtvochtigheid : 80
+temperatuurGC : 9.4
+windsnelheidMS : 5.7
+windsnelheidBF : 4
+windrichtingGR : 261
+windrichting : W
+luchtdruk : 996
+zichtmeters : 42200
+windstotenMS : 8.4
+regenMMPU : -
+zonintensiteitWM2 : 215
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/a.png
+temperatuur10cm : 9.4
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 11:40:00
+luchtvochtigheid : 78
+temperatuurGC : 9.8
+windsnelheidMS : 6.1
+windsnelheidBF : 4
+windrichtingGR : 258
+windrichting : WZW
+luchtdruk : 996
+zichtmeters : 38800
+windstotenMS : 8.6
+regenMMPU : -
+zonintensiteitWM2 : 310
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/a.png
+temperatuur10cm : 9.4
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 11:50:00
+luchtvochtigheid : 76
+temperatuurGC : 9.9
+windsnelheidMS : 6.8
+windsnelheidBF : 4
+windrichtingGR : 261
+windrichting : W
+luchtdruk : 996.1
+zichtmeters : 39800
+windstotenMS : 8.7
+regenMMPU : -
+zonintensiteitWM2 : 312
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/a.png
+temperatuur10cm : 10.0
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 11:50:00
+luchtvochtigheid : 76
+temperatuurGC : 9.9
+windsnelheidMS : 6.8
+windsnelheidBF : 4
+windrichtingGR : 261
+windrichting : W
+luchtdruk : 996.1
+zichtmeters : 39800
+windstotenMS : 8.7
+regenMMPU : -
+zonintensiteitWM2 : 312
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/a.png
+temperatuur10cm : 10.0
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 11:50:00
+luchtvochtigheid : 76
+temperatuurGC : 9.9
+windsnelheidMS : 6.8
+windsnelheidBF : 4
+windrichtingGR : 261
+windrichting : W
+luchtdruk : 996.1
+zichtmeters : 39800
+windstotenMS : 8.7
+regenMMPU : -
+zonintensiteitWM2 : 312
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/a.png
+temperatuur10cm : 10.0
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 11:50:00
+luchtvochtigheid : 76
+temperatuurGC : 9.9
+windsnelheidMS : 6.8
+windsnelheidBF : 4
+windrichtingGR : 261
+windrichting : W
+luchtdruk : 996.1
+zichtmeters : 39800
+windstotenMS : 8.7
+regenMMPU : -
+zonintensiteitWM2 : 312
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/a.png
+temperatuur10cm : 10.0
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 12:00:00
+luchtvochtigheid : 76
+temperatuurGC : 10.1
+windsnelheidMS : 6.6
+windsnelheidBF : 4
+windrichtingGR : 258
+windrichting : WZW
+luchtdruk : 996.2
+zichtmeters : 36400
+windstotenMS : 8.8
+regenMMPU : -
+zonintensiteitWM2 : 349
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/b.png
+temperatuur10cm : 10.1
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 12:10:00
+luchtvochtigheid : 77
+temperatuurGC : 9.8
+windsnelheidMS : 7.6
+windsnelheidBF : 4
+windrichtingGR : 258
+windrichting : WZW
+luchtdruk : 996.3
+zichtmeters : 32500
+windstotenMS : 9.7
+regenMMPU : -
+zonintensiteitWM2 : 304
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/b.png
+temperatuur10cm : 10.1
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 12:10:00
+luchtvochtigheid : 77
+temperatuurGC : 9.8
+windsnelheidMS : 7.6
+windsnelheidBF : 4
+windrichtingGR : 258
+windrichting : WZW
+luchtdruk : 996.3
+zichtmeters : 32500
+windstotenMS : 9.7
+regenMMPU : -
+zonintensiteitWM2 : 304
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/b.png
+temperatuur10cm : 10.1
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 12:20:00
+luchtvochtigheid : 76
+temperatuurGC : 9.7
+windsnelheidMS : 7.4
+windsnelheidBF : 4
+windrichtingGR : 261
+windrichting : W
+luchtdruk : 996.3
+zichtmeters : 42400
+windstotenMS : 10.1
+regenMMPU : -
+zonintensiteitWM2 : 231
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/a.png
+temperatuur10cm : 9.7
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 12:20:00
+luchtvochtigheid : 76
+temperatuurGC : 9.7
+windsnelheidMS : 7.4
+windsnelheidBF : 4
+windrichtingGR : 261
+windrichting : W
+luchtdruk : 996.3
+zichtmeters : 42400
+windstotenMS : 10.1
+regenMMPU : -
+zonintensiteitWM2 : 231
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/a.png
+temperatuur10cm : 9.7
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 12:30:00
+luchtvochtigheid : 76
+temperatuurGC : 9.6
+windsnelheidMS : 6.9
+windsnelheidBF : 4
+windrichtingGR : 263
+windrichting : W
+luchtdruk : 996.4
+zichtmeters : 34200
+windstotenMS : 10.1
+regenMMPU : -
+zonintensiteitWM2 : 225
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/c.png
+temperatuur10cm : 9.5
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 12:30:00
+luchtvochtigheid : 76
+temperatuurGC : 9.6
+windsnelheidMS : 6.9
+windsnelheidBF : 4
+windrichtingGR : 263
+windrichting : W
+luchtdruk : 996.4
+zichtmeters : 34200
+windstotenMS : 10.1
+regenMMPU : -
+zonintensiteitWM2 : 225
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/c.png
+temperatuur10cm : 9.5
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 12:40:00
+luchtvochtigheid : 74
+temperatuurGC : 9.6
+windsnelheidMS : 6.8
+windsnelheidBF : 4
+windrichtingGR : 266
+windrichting : W
+luchtdruk : 996.5
+zichtmeters : 44000
+windstotenMS : 9.1
+regenMMPU : -
+zonintensiteitWM2 : 277
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/c.png
+temperatuur10cm : 9.6
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 12:40:00
+luchtvochtigheid : 74
+temperatuurGC : 9.6
+windsnelheidMS : 6.8
+windsnelheidBF : 4
+windrichtingGR : 266
+windrichting : W
+luchtdruk : 996.5
+zichtmeters : 44000
+windstotenMS : 9.1
+regenMMPU : -
+zonintensiteitWM2 : 277
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/c.png
+temperatuur10cm : 9.6
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 12:50:00
+luchtvochtigheid : 76
+temperatuurGC : 9.3
+windsnelheidMS : 6.2
+windsnelheidBF : 4
+windrichtingGR : 264
+windrichting : W
+luchtdruk : 996.6
+zichtmeters : 35700
+windstotenMS : 9.1
+regenMMPU : -
+zonintensiteitWM2 : 205
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/c.png
+temperatuur10cm : 9.3
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 12:50:00
+luchtvochtigheid : 76
+temperatuurGC : 9.3
+windsnelheidMS : 6.2
+windsnelheidBF : 4
+windrichtingGR : 264
+windrichting : W
+luchtdruk : 996.6
+zichtmeters : 35700
+windstotenMS : 9.1
+regenMMPU : -
+zonintensiteitWM2 : 205
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/c.png
+temperatuur10cm : 9.3
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 15:20:00
+luchtvochtigheid : 76
+temperatuurGC : 8.5
+windsnelheidMS : 4.4
+windsnelheidBF : 3
+windrichtingGR : 265
+windrichting : W
+luchtdruk : 997.7
+zichtmeters : 40100
+windstotenMS : 6.6
+regenMMPU : -
+zonintensiteitWM2 : 81
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/c.png
+temperatuur10cm : 7.8
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 15:30:00
+luchtvochtigheid : 78
+temperatuurGC : 8.3
+windsnelheidMS : 4
+windsnelheidBF : 3
+windrichtingGR : 269
+windrichting : W
+luchtdruk : 997.7
+zichtmeters : 38800
+windstotenMS : 5.8
+regenMMPU : -
+zonintensiteitWM2 : 55
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/c.png
+temperatuur10cm : 7.8
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 15:30:00
+luchtvochtigheid : 78
+temperatuurGC : 8.3
+windsnelheidMS : 4
+windsnelheidBF : 3
+windrichtingGR : 269
+windrichting : W
+luchtdruk : 997.7
+zichtmeters : 38800
+windstotenMS : 5.8
+regenMMPU : -
+zonintensiteitWM2 : 55
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/c.png
+temperatuur10cm : 7.8
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 15:40:00
+luchtvochtigheid : 78
+temperatuurGC : 8.5
+windsnelheidMS : 3.4
+windsnelheidBF : 2
+windrichtingGR : 263
+windrichting : W
+luchtdruk : 997.9
+zichtmeters : 27100
+windstotenMS : 5
+regenMMPU : -
+zonintensiteitWM2 : 77
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/c.png
+temperatuur10cm : 7.8
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 15:40:00
+luchtvochtigheid : 78
+temperatuurGC : 8.5
+windsnelheidMS : 3.4
+windsnelheidBF : 2
+windrichtingGR : 263
+windrichting : W
+luchtdruk : 997.9
+zichtmeters : 27100
+windstotenMS : 5
+regenMMPU : -
+zonintensiteitWM2 : 77
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/c.png
+temperatuur10cm : 7.8
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 15:40:00
+luchtvochtigheid : 78
+temperatuurGC : 8.5
+windsnelheidMS : 3.4
+windsnelheidBF : 2
+windrichtingGR : 263
+windrichting : W
+luchtdruk : 997.9
+zichtmeters : 27100
+windstotenMS : 5
+regenMMPU : -
+zonintensiteitWM2 : 77
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/c.png
+temperatuur10cm : 7.8
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 15:50:00
+luchtvochtigheid : 80
+temperatuurGC : 7.8
+windsnelheidMS : 4.6
+windsnelheidBF : 3
+windrichtingGR : 268
+windrichting : W
+luchtdruk : 997.9
+zichtmeters : 22100
+windstotenMS : 6.9
+regenMMPU : -
+zonintensiteitWM2 : 70
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/c.png
+temperatuur10cm : 7.5
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 16:00:00
+luchtvochtigheid : 78
+temperatuurGC : 7.5
+windsnelheidMS : 3.8
+windsnelheidBF : 3
+windrichtingGR : 264
+windrichting : W
+luchtdruk : 998
+zichtmeters : 49200
+windstotenMS : 6.9
+regenMMPU : -
+zonintensiteitWM2 : 30
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/b.png
+temperatuur10cm : 6.7
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 16:00:00
+luchtvochtigheid : 78
+temperatuurGC : 7.5
+windsnelheidMS : 3.8
+windsnelheidBF : 3
+windrichtingGR : 264
+windrichting : W
+luchtdruk : 998
+zichtmeters : 49200
+windstotenMS : 6.9
+regenMMPU : -
+zonintensiteitWM2 : 30
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/b.png
+temperatuur10cm : 6.7
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 16:00:00
+luchtvochtigheid : 78
+temperatuurGC : 7.5
+windsnelheidMS : 3.8
+windsnelheidBF : 3
+windrichtingGR : 264
+windrichting : W
+luchtdruk : 998
+zichtmeters : 49200
+windstotenMS : 6.9
+regenMMPU : -
+zonintensiteitWM2 : 30
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/b.png
+temperatuur10cm : 6.7
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 16:10:00
+luchtvochtigheid : 80
+temperatuurGC : 6.8
+windsnelheidMS : 3
+windsnelheidBF : 2
+windrichtingGR : 238
+windrichting : WZW
+luchtdruk : 998
+zichtmeters : 49900
+windstotenMS : 4.9
+regenMMPU : -
+zonintensiteitWM2 : 18
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/c.png
+temperatuur10cm : 5.9
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 16:20:00
+luchtvochtigheid : 82
+temperatuurGC : 6.1
+windsnelheidMS : 2.7
+windsnelheidBF : 2
+windrichtingGR : 215
+windrichting : ZW
+luchtdruk : 998
+zichtmeters : 49900
+windstotenMS : 3.9
+regenMMPU : -
+zonintensiteitWM2 : 12
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/c.png
+temperatuur10cm : 4.9
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 16:20:00
+luchtvochtigheid : 82
+temperatuurGC : 6.1
+windsnelheidMS : 2.7
+windsnelheidBF : 2
+windrichtingGR : 215
+windrichting : ZW
+luchtdruk : 998
+zichtmeters : 49900
+windstotenMS : 3.9
+regenMMPU : -
+zonintensiteitWM2 : 12
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/c.png
+temperatuur10cm : 4.9
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 16:20:00
+luchtvochtigheid : 82
+temperatuurGC : 6.1
+windsnelheidMS : 2.7
+windsnelheidBF : 2
+windrichtingGR : 215
+windrichting : ZW
+luchtdruk : 998
+zichtmeters : 49900
+windstotenMS : 3.9
+regenMMPU : -
+zonintensiteitWM2 : 12
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/c.png
+temperatuur10cm : 4.9
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 16:30:00
+luchtvochtigheid : 84
+temperatuurGC : 5.7
+windsnelheidMS : 3.3
+windsnelheidBF : 2
+windrichtingGR : 218
+windrichting : ZW
+luchtdruk : 998
+zichtmeters : 49900
+windstotenMS : 4.1
+regenMMPU : -
+zonintensiteitWM2 : 7
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/c.png
+temperatuur10cm : 4.3
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 16:30:00
+luchtvochtigheid : 84
+temperatuurGC : 5.7
+windsnelheidMS : 3.3
+windsnelheidBF : 2
+windrichtingGR : 218
+windrichting : ZW
+luchtdruk : 998
+zichtmeters : 49900
+windstotenMS : 4.1
+regenMMPU : -
+zonintensiteitWM2 : 7
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/c.png
+temperatuur10cm : 4.3
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 16:40:00
+luchtvochtigheid : 85
+temperatuurGC : 5.5
+windsnelheidMS : 3.6
+windsnelheidBF : 3
+windrichtingGR : 222
+windrichting : ZW
+luchtdruk : 998.1
+zichtmeters : 49100
+windstotenMS : 4.7
+regenMMPU : -
+zonintensiteitWM2 : 3
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/c.png
+temperatuur10cm : 4.0
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 16:50:00
+luchtvochtigheid : 86
+temperatuurGC : 5.2
+windsnelheidMS : 3.8
+windsnelheidBF : 3
+windrichtingGR : 221
+windrichting : ZW
+luchtdruk : 998.2
+zichtmeters : 49200
+windstotenMS : 4.7
+regenMMPU : -
+zonintensiteitWM2 : -
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/c.png
+temperatuur10cm : 3.8
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 16:50:00
+luchtvochtigheid : 86
+temperatuurGC : 5.2
+windsnelheidMS : 3.8
+windsnelheidBF : 3
+windrichtingGR : 221
+windrichting : ZW
+luchtdruk : 998.2
+zichtmeters : 49200
+windstotenMS : 4.7
+regenMMPU : -
+zonintensiteitWM2 : -
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/c.png
+temperatuur10cm : 3.8
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 16:50:00
+luchtvochtigheid : 86
+temperatuurGC : 5.2
+windsnelheidMS : 3.8
+windsnelheidBF : 3
+windrichtingGR : 221
+windrichting : ZW
+luchtdruk : 998.2
+zichtmeters : 49200
+windstotenMS : 4.7
+regenMMPU : -
+zonintensiteitWM2 : -
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/c.png
+temperatuur10cm : 3.8
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 17:00:00
+luchtvochtigheid : 85
+temperatuurGC : 5.8
+windsnelheidMS : 4.2
+windsnelheidBF : 3
+windrichtingGR : 215
+windrichting : ZW
+luchtdruk : 998.3
+zichtmeters : 48300
+windstotenMS : 5.7
+regenMMPU : -
+zonintensiteitWM2 : -
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/cc.png
+temperatuur10cm : 3.8
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 17:10:00
+luchtvochtigheid : 90
+temperatuurGC : 5.5
+windsnelheidMS : 3.7
+windsnelheidBF : 3
+windrichtingGR : 200
+windrichting : ZZW
+luchtdruk : 998.4
+zichtmeters : 48300
+windstotenMS : 5.7
+regenMMPU : -
+zonintensiteitWM2 : -
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/cc.png
+temperatuur10cm : 4.5
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 17:10:00
+luchtvochtigheid : 90
+temperatuurGC : 5.5
+windsnelheidMS : 3.7
+windsnelheidBF : 3
+windrichtingGR : 200
+windrichting : ZZW
+luchtdruk : 998.4
+zichtmeters : 48300
+windstotenMS : 5.7
+regenMMPU : -
+zonintensiteitWM2 : -
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/cc.png
+temperatuur10cm : 4.5
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 17:20:00
+luchtvochtigheid : 92
+temperatuurGC : 5.7
+windsnelheidMS : 3.7
+windsnelheidBF : 3
+windrichtingGR : 197
+windrichting : ZZW
+luchtdruk : 998.5
+zichtmeters : 42200
+windstotenMS : 5.5
+regenMMPU : -
+zonintensiteitWM2 : -
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/cc.png
+temperatuur10cm : 4.6
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 17:20:00
+luchtvochtigheid : 92
+temperatuurGC : 5.7
+windsnelheidMS : 3.7
+windsnelheidBF : 3
+windrichtingGR : 197
+windrichting : ZZW
+luchtdruk : 998.5
+zichtmeters : 42200
+windstotenMS : 5.5
+regenMMPU : -
+zonintensiteitWM2 : -
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/cc.png
+temperatuur10cm : 4.6
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 17:30:00
+luchtvochtigheid : 93
+temperatuurGC : 5.6
+windsnelheidMS : 3.7
+windsnelheidBF : 3
+windrichtingGR : 198
+windrichting : ZZW
+luchtdruk : 998.5
+zichtmeters : 43200
+windstotenMS : 5.5
+regenMMPU : -
+zonintensiteitWM2 : -
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/cc.png
+temperatuur10cm : 4.8
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 17:30:00
+luchtvochtigheid : 93
+temperatuurGC : 5.6
+windsnelheidMS : 3.7
+windsnelheidBF : 3
+windrichtingGR : 198
+windrichting : ZZW
+luchtdruk : 998.5
+zichtmeters : 43200
+windstotenMS : 5.5
+regenMMPU : -
+zonintensiteitWM2 : -
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/cc.png
+temperatuur10cm : 4.8
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 17:30:00
+luchtvochtigheid : 93
+temperatuurGC : 5.6
+windsnelheidMS : 3.7
+windsnelheidBF : 3
+windrichtingGR : 198
+windrichting : ZZW
+luchtdruk : 998.5
+zichtmeters : 43200
+windstotenMS : 5.5
+regenMMPU : -
+zonintensiteitWM2 : -
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/cc.png
+temperatuur10cm : 4.8
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 17:40:00
+luchtvochtigheid : 93
+temperatuurGC : 5.4
+windsnelheidMS : 4.2
+windsnelheidBF : 3
+windrichtingGR : 200
+windrichting : ZZW
+luchtdruk : 998.6
+zichtmeters : 44600
+windstotenMS : 5.8
+regenMMPU : -
+zonintensiteitWM2 : -
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/cc.png
+temperatuur10cm : 4.6
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 17:40:00
+luchtvochtigheid : 93
+temperatuurGC : 5.4
+windsnelheidMS : 4.2
+windsnelheidBF : 3
+windrichtingGR : 200
+windrichting : ZZW
+luchtdruk : 998.6
+zichtmeters : 44600
+windstotenMS : 5.8
+regenMMPU : -
+zonintensiteitWM2 : -
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/cc.png
+temperatuur10cm : 4.6
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 17:50:00
+luchtvochtigheid : 94
+temperatuurGC : 5.5
+windsnelheidMS : 3.7
+windsnelheidBF : 3
+windrichtingGR : 204
+windrichting : ZZW
+luchtdruk : 998.6
+zichtmeters : 43800
+windstotenMS : 5.8
+regenMMPU : -
+zonintensiteitWM2 : -
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/cc.png
+temperatuur10cm : 4.7
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 17:50:00
+luchtvochtigheid : 94
+temperatuurGC : 5.5
+windsnelheidMS : 3.7
+windsnelheidBF : 3
+windrichtingGR : 204
+windrichting : ZZW
+luchtdruk : 998.6
+zichtmeters : 43800
+windstotenMS : 5.8
+regenMMPU : -
+zonintensiteitWM2 : -
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/cc.png
+temperatuur10cm : 4.7
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 18:00:00
+luchtvochtigheid : 93
+temperatuurGC : 5.8
+windsnelheidMS : 3.5
+windsnelheidBF : 3
+windrichtingGR : 207
+windrichting : ZZW
+luchtdruk : 998.7
+zichtmeters : 43200
+windstotenMS : 5.8
+regenMMPU : -
+zonintensiteitWM2 : -
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/cc.png
+temperatuur10cm : 4.7
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 18:10:00
+luchtvochtigheid : 93
+temperatuurGC : 5.8
+windsnelheidMS : 3.8
+windsnelheidBF : 3
+windrichtingGR : 202
+windrichting : ZZW
+luchtdruk : 998.8
+zichtmeters : 48900
+windstotenMS : 5.7
+regenMMPU : -
+zonintensiteitWM2 : -
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/cc.png
+temperatuur10cm : 4.9
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 18:10:00
+luchtvochtigheid : 93
+temperatuurGC : 5.8
+windsnelheidMS : 3.8
+windsnelheidBF : 3
+windrichtingGR : 202
+windrichting : ZZW
+luchtdruk : 998.8
+zichtmeters : 48900
+windstotenMS : 5.7
+regenMMPU : -
+zonintensiteitWM2 : -
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/cc.png
+temperatuur10cm : 4.9
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 18:20:00
+luchtvochtigheid : 92
+temperatuurGC : 6.2
+windsnelheidMS : 4
+windsnelheidBF : 3
+windrichtingGR : 207
+windrichting : ZZW
+luchtdruk : 998.9
+zichtmeters : 44700
+windstotenMS : 6.1
+regenMMPU : -
+zonintensiteitWM2 : -
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/cc.png
+temperatuur10cm : 5.0
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 18:20:00
+luchtvochtigheid : 92
+temperatuurGC : 6.2
+windsnelheidMS : 4
+windsnelheidBF : 3
+windrichtingGR : 207
+windrichting : ZZW
+luchtdruk : 998.9
+zichtmeters : 44700
+windstotenMS : 6.1
+regenMMPU : -
+zonintensiteitWM2 : -
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/cc.png
+temperatuur10cm : 5.0
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 18:20:00
+luchtvochtigheid : 92
+temperatuurGC : 6.2
+windsnelheidMS : 4
+windsnelheidBF : 3
+windrichtingGR : 207
+windrichting : ZZW
+luchtdruk : 998.9
+zichtmeters : 44700
+windstotenMS : 6.1
+regenMMPU : -
+zonintensiteitWM2 : -
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/cc.png
+temperatuur10cm : 5.0
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 18:40:00
+luchtvochtigheid : 94
+temperatuurGC : 6.2
+windsnelheidMS : 5.1
+windsnelheidBF : 3
+windrichtingGR : 224
+windrichting : ZW
+luchtdruk : 999.2
+zichtmeters : 6980
+windstotenMS : 7
+regenMMPU : 2.5
+zonintensiteitWM2 : -
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/qq.png
+temperatuur10cm : 5.9
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 18:40:00
+luchtvochtigheid : 94
+temperatuurGC : 6.2
+windsnelheidMS : 5.1
+windsnelheidBF : 3
+windrichtingGR : 224
+windrichting : ZW
+luchtdruk : 999.2
+zichtmeters : 6980
+windstotenMS : 7
+regenMMPU : 2.5
+zonintensiteitWM2 : -
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/qq.png
+temperatuur10cm : 5.9
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 18:50:00
+luchtvochtigheid : 95
+temperatuurGC : 6.2
+windsnelheidMS : 3.8
+windsnelheidBF : 3
+windrichtingGR : 202
+windrichting : ZZW
+luchtdruk : 999.1
+zichtmeters : 8230
+windstotenMS : 7
+regenMMPU : 2.9
+zonintensiteitWM2 : -
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/qq.png
+temperatuur10cm : 5.9
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 18:50:00
+luchtvochtigheid : 95
+temperatuurGC : 6.2
+windsnelheidMS : 3.8
+windsnelheidBF : 3
+windrichtingGR : 202
+windrichting : ZZW
+luchtdruk : 999.1
+zichtmeters : 8230
+windstotenMS : 7
+regenMMPU : 2.9
+zonintensiteitWM2 : -
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/qq.png
+temperatuur10cm : 5.9
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 19:00:00
+luchtvochtigheid : 94
+temperatuurGC : 6.0
+windsnelheidMS : 3.5
+windsnelheidBF : 3
+windrichtingGR : 207
+windrichting : ZZW
+luchtdruk : 999
+zichtmeters : 25100
+windstotenMS : 5.3
+regenMMPU : 0.1
+zonintensiteitWM2 : -
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/qq.png
+temperatuur10cm : 5.4
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 19:00:00
+luchtvochtigheid : 94
+temperatuurGC : 6.0
+windsnelheidMS : 3.5
+windsnelheidBF : 3
+windrichtingGR : 207
+windrichting : ZZW
+luchtdruk : 999
+zichtmeters : 25100
+windstotenMS : 5.3
+regenMMPU : 0.1
+zonintensiteitWM2 : -
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/qq.png
+temperatuur10cm : 5.4
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 19:00:00
+luchtvochtigheid : 94
+temperatuurGC : 6.0
+windsnelheidMS : 3.5
+windsnelheidBF : 3
+windrichtingGR : 207
+windrichting : ZZW
+luchtdruk : 999
+zichtmeters : 25100
+windstotenMS : 5.3
+regenMMPU : 0.1
+zonintensiteitWM2 : -
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/qq.png
+temperatuur10cm : 5.4
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 19:10:00
+luchtvochtigheid : 95
+temperatuurGC : 5.5
+windsnelheidMS : 3
+windsnelheidBF : 2
+windrichtingGR : 199
+windrichting : ZZW
+luchtdruk : 999.1
+zichtmeters : 22600
+windstotenMS : 5.2
+regenMMPU : -
+zonintensiteitWM2 : -
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/cc.png
+temperatuur10cm : 4.7
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 19:10:00
+luchtvochtigheid : 95
+temperatuurGC : 5.5
+windsnelheidMS : 3
+windsnelheidBF : 2
+windrichtingGR : 199
+windrichting : ZZW
+luchtdruk : 999.1
+zichtmeters : 22600
+windstotenMS : 5.2
+regenMMPU : -
+zonintensiteitWM2 : -
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/cc.png
+temperatuur10cm : 4.7
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 19:10:00
+luchtvochtigheid : 95
+temperatuurGC : 5.5
+windsnelheidMS : 3
+windsnelheidBF : 2
+windrichtingGR : 199
+windrichting : ZZW
+luchtdruk : 999.1
+zichtmeters : 22600
+windstotenMS : 5.2
+regenMMPU : -
+zonintensiteitWM2 : -
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/cc.png
+temperatuur10cm : 4.7
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 19:20:00
+luchtvochtigheid : 94
+temperatuurGC : 5.4
+windsnelheidMS : 3.3
+windsnelheidBF : 2
+windrichtingGR : 193
+windrichting : ZZW
+luchtdruk : 999.2
+zichtmeters : 27300
+windstotenMS : 5
+regenMMPU : -
+zonintensiteitWM2 : -
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/qq.png
+temperatuur10cm : 4.5
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 19:20:00
+luchtvochtigheid : 94
+temperatuurGC : 5.4
+windsnelheidMS : 3.3
+windsnelheidBF : 2
+windrichtingGR : 193
+windrichting : ZZW
+luchtdruk : 999.2
+zichtmeters : 27300
+windstotenMS : 5
+regenMMPU : -
+zonintensiteitWM2 : -
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/qq.png
+temperatuur10cm : 4.5
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 19:30:00
+luchtvochtigheid : 94
+temperatuurGC : 5.2
+windsnelheidMS : 3.6
+windsnelheidBF : 3
+windrichtingGR : 193
+windrichting : ZZW
+luchtdruk : 999.2
+zichtmeters : 39200
+windstotenMS : 5.6
+regenMMPU : -
+zonintensiteitWM2 : -
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/cc.png
+temperatuur10cm : 4.3
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/13/2019 19:30:00
+luchtvochtigheid : 94
+temperatuurGC : 5.2
+windsnelheidMS : 3.6
+windsnelheidBF : 3
+windrichtingGR : 193
+windrichting : ZZW
+luchtdruk : 999.2
+zichtmeters : 39200
+windstotenMS : 5.6
+regenMMPU : -
+zonintensiteitWM2 : -
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/cc.png
+temperatuur10cm : 4.3
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/22/2019 13:00:00
+luchtvochtigheid : 88
+temperatuurGC : 8.1
+windsnelheidMS : 4.6
+windsnelheidBF : 3
+windrichtingGR : 147
+windrichting : ZZO
+luchtdruk : 1004.3
+zichtmeters : 10000
+windstotenMS : 9.4
+regenMMPU : -
+zonintensiteitWM2 : 185
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/c.png
+temperatuur10cm : 7.9
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
+stationcode : 6270
+stationnaam : Meetstation Leeuwarden
+lat : 53.22
+lon : 5.77
+datum : 11/29/2019 14:40:00
+luchtvochtigheid : 75
+temperatuurGC : 6.9
+windsnelheidMS : 8.3
+windsnelheidBF : 5
+windrichtingGR : 323
+windrichting : NW
+luchtdruk : 1011.9
+zichtmeters : 25300
+windstotenMS : 11.8
+regenMMPU : -
+zonintensiteitWM2 : 93
+icoonactueel : https://www.buienradar.nl/resources/images/icons/weather/30x30/c.png
+temperatuur10cm : 6.9
+url : https://www.buienradar.nl/nederland/weerbericht/weergrafieken/6270
+latGraden : 53.36
+lonGraden : 6.28
+###
